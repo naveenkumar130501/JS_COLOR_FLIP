@@ -1,0 +1,24 @@
+.tit{
+    font-size: 1.9em;
+    /* border: 1px solid black; */
+    /* background-color: aliceblue; */
+}
+.color{
+    float:right;
+    margin-right: 20px;
+}
+/* body{
+    background-color: aqua;
+} */
+ .submit{
+    /* border:1px solid black; */
+    margin :250px 200px;
+    text-align: center;
+ }
+ .container{
+    border: 1px solid white;
+ }
+ button{
+    font-size: 1.5em;
+    background-color: aqua;
+ }
